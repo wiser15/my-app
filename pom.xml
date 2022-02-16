@@ -5,12 +5,6 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.7-SNAPSHOT</version>
-//	 ADDED HERE
-	<properties>
- <maven.compiler.source>14</maven.compiler.source>
- <maven.compiler.target>14</maven.compiler.target>
-</properties>
-// ADD END HERE	
 	<name>my-app</name>
 	<url>http://maven.apache.org</url>
 
